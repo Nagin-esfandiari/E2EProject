@@ -1,0 +1,5 @@
+16:53:51.454 [TestNG-tests-1] INFO  com.inetbanking.testCases.TC_LoginTest_001  - entered username
+16:53:51.549 [TestNG-tests-1] INFO  com.inetbanking.testCases.TC_LoginTest_001  - entered password
+16:53:51.825 [TestNG-tests-1] INFO  com.inetbanking.testCases.TC_LoginTest_001  - clicked on submit btn
+16:53:52.788 [TestNG-tests-1] INFO  com.inetbanking.testCases.TC_LoginTest_001  - entered username
+16:53:52.855 [TestNG-tests-1] INFO  com.inetbanking.testCases.TC_LoginTest_001  - entered password
